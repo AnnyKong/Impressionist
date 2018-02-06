@@ -1,1 +1,2 @@
-# Impressionist
+## Impressionist
+An interactive program written in C++ and use OpenGL that can create impressionistic painting. It can also be used as Photoshop to edit image since it supports functions such as edge detection, Sharpening, Blur, etc.
